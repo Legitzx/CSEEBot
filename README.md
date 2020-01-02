@@ -1,7 +1,7 @@
 # CSEEBot
 Bot made for the CSEE Official Discord Server
 
-Dependencies: 
+Dependencies(Java Discord API): 
 https://github.com/DV8FromTheWorld/JDA
 
 Future features:
