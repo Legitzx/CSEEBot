@@ -16,7 +16,7 @@ public class Bot extends ListenerAdapter {
 
     public void start() throws LoginException {
         new JDABuilder(token)
-                .setActivity(Activity.playing("https://github.com/Legitzx/CSEEBot"))
+                .setActivity(Activity.watching("https://github.com/Legitzx/CSEEBot"))
                 .addEventListeners(new Welcome())
                 .build();
     }
